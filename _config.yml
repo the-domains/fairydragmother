@@ -1,14 +1,28 @@
+name: FairyDragmother
+favicon: null
 layout_spectrum: 0.9638298
 typography_spectrum: 0.5234042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7
-  lightness: 0.2808511
-  brandStrength: 0.7914894
   brandColors:
-    - '#FFFFFF'
-    - '#EDDF43'
-    - '#8A63FF'
-    - '#000000'
-    - '#989D9D'
+    - '#efd562'
+    - '#9372b3'
+    - '#090a0b'
+    - '#2b262f'
+    - '#50435a'
+  brandStrength: 0.625
+  lightness: 0.375
+  saturation: 0.7
   rhythmicContrast: 0
-name: FairyDragmother
+purpose: []

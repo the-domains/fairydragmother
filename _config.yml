@@ -1,0 +1,14 @@
+layout_spectrum: 0.9638298
+typography_spectrum: 0.5234042
+color:
+  saturation: 0.7
+  lightness: 0.2808511
+  brandStrength: 0.7914894
+  brandColors:
+    - '#FFFFFF'
+    - '#EDDF43'
+    - '#8A63FF'
+    - '#000000'
+    - '#989D9D'
+  rhythmicContrast: 0
+name: FairyDragmother
